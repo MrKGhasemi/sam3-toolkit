@@ -2,7 +2,7 @@
 
 [![SAM3](https://img.shields.io/badge/Model-SAM%203-blueviolet)](https://github.com/facebookresearch/sam3)
 
-***Pipelines powered by Segment-Anything-Model(SAM3) and Multimodal LLMs.***
+### ***Pipelines powered by Segment-Anything-Model(SAM3) and Multimodal LLMs.***
 
 This repository implements a suite of practical-grade vision tools designed for precise object counting, video retrieval, semantic edge detection, and privacy-preserving redaction. It bridges the gap between raw foundation models and practical, real-world applications by integrating **SAM3** with **OpenCLIP**, **BLIP**, and **GPT-5.2**.
 
