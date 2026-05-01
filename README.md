@@ -90,7 +90,7 @@ Mode2(```LLM```): Image/Video Input → Captions(from ```25``` frame crops) by `
 * **GPU:** NVIDIA GPU with at least ```8GB``` VRAM for Image, and ```32GB``` for Video recommended.
 * **OS:** Linux (Ubuntu 20.04+) or Windows WSL2.
 
-### 1. Clone the Repository
+1. Clone the Repository
 ```
 git clone [https://github.com/MrKGhasemi/adadawd.git](https://github.com/MrKGhasemi/adadawd.git)
 cd adadawd
